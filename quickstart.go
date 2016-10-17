@@ -97,9 +97,9 @@ func main() {
 	given = "Purple"
 	family = "Drank"
 	email = "pdrink@skoutrocks.org"
-	password = "shouldbebetter"
+	password = "StupidStupidStupidPass"
 
-	better = "YEV4Rf5VCLmDSyKUGR"
+	better = "SCRUBBEDLIKEABOSS"
 
 	// set variables based on input
 
