@@ -3,6 +3,9 @@
 *.a
 *.so
 
+# secrets
+client_secret.json
+
 # Folders
 _obj
 _test
